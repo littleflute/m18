@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m18/edit/master/README.md)
+[v0.0.8](https://github.com/littleflute/m18/edit/master/README.md)
 
 [Sandy Weltman/New world harmonica jazz/cd](Sandy Weltman/New world harmonica jazz/cd)
 
@@ -10,3 +10,6 @@
 
 [Shearwater/Jet plane and oxbow/cd](Shearwater/Jet plane and oxbow/cd)
 
+[Singers & songwriters/1970-1971/cd1](Singers & songwriters/1970-1971/cd1)
+
+[Singers & songwriters/1970-1971/cd2](Singers & songwriters/1970-1971/cd2)
