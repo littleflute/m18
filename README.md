@@ -1,4 +1,4 @@
-[v0.1.1](https://github.com/littleflute/m18/edit/master/README.md)
+[v0.1.2](https://github.com/littleflute/m18/edit/master/README.md)
 
 [Sandy Weltman/New world harmonica jazz/cd](Sandy Weltman/New world harmonica jazz/cd)
 
@@ -19,3 +19,5 @@
 [Sonny Rollins/Ken Burns/cd](Sonny Rollins/Ken Burns/cd)
 
 [Stevan Pasero/Guitar masterpieces/cd](Stevan Pasero/Guitar masterpieces/cd)
+
+[Stevan Pasero/Seasons/cd](Stevan Pasero/Seasons/cd)
